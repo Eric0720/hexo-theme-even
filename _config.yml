@@ -28,7 +28,7 @@ menu:
 # ===========================================
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
-theme:
+theme: even
   color: Default
   toc: false
   fancybox: false
